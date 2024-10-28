@@ -31,7 +31,7 @@ Bot başarılı bir şekilde başlatıldığında, sunucunuzdaki davetleri izlem
 
 ## İletişim
 
-Discord : mys_terious3
+Discord : jarvenux.
 
 
 
